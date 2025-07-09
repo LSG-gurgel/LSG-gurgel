@@ -1,5 +1,10 @@
-## Hi there 👋
+## ✨ Sobre mim
+Sou Lô Gurgel, sou de Serra/ES, mulher PCD e formada em Gastronomia — área em que construí toda minha trajetória profissional até aqui. Tenho uma extensão universitária em Direitos Humanos, e estive afastada do mercado de trabalho nos últimos anos por questões de saúde.
 
+Em 2025, tomei a decisão de explorar um novo caminho: o da tecnologia.
+Entrei na formação do programa Desenvolve do Gurpo Boticário com o objetivo de construir, aos poucos, a possibilidade de uma nova profissão — algo que eu possa fazer de casa, com autonomia, respeitando meu corpo e minhas limitações físicas, mas sem abrir mão da curiosidade e da vontade de aprender algo que realmente me desafie.
+
+Ainda não me vejo como alguém pronta para atuar, mas me vejo em movimento. Estou me dedicando com consistência e cuidado para tornar esse novo futuro possível.
 <!--
 **LSG-gurgel/LSG-gurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
