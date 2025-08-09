@@ -68,4 +68,4 @@ Além disso, lido com o desafio de acompanhar turmas com níveis muito diferente
 ## 📬 Como me encontrar
 
 - Aqui GitHub: [@LSG-gurgel](https://github.com/LSG-gurgel)
-- E-mail profissional: lsg.gurgel.tech@gmail.com
+- [Email](lsg.gurgel.tech@gmail.com)
